@@ -9,5 +9,3 @@ bietertool.de
 gov.cosinex.bos-asp.de
 nds-vps.niedersachsen.de
 gov.tkk.governikus-asp.de
-agorumcloud.com
-acpdigital.agorumcloud.com
