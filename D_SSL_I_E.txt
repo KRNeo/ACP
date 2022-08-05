@@ -12,3 +12,4 @@ gov.tkk.governikus-asp.de
 partner.hpe.com
 *.acp.de
 *.acp.at
+www.ws.cms.ups.com
