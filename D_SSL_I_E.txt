@@ -14,3 +14,4 @@ partner.hpe.com
 *.acp.at
 www.ws.cms.ups.com
 download.eclipse.org
+www.eclipse.org
