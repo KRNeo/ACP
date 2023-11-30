@@ -17,4 +17,5 @@ download.eclipse.org
 www.eclipse.org
 marketplace.eclipse.org
 *.hp.com
-i.dell.com
+*.dell.com
+*.service-now.com
