@@ -16,3 +16,4 @@ www.ws.cms.ups.com
 download.eclipse.org
 www.eclipse.org
 marketplace.eclipse.org
+*.hp.com
